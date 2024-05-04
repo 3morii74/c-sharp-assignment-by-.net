@@ -1,0 +1,6 @@
+- composer update
+- composer install
+- php artisan migrate
+- php artisan migrate:fresh --seed
+- php artisan storage:link 
+- php artisan key:generate      
