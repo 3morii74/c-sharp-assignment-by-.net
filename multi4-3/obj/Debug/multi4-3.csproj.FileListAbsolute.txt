@@ -1,0 +1,5 @@
+E:\multi4-3\obj\Debug\multi4-3.csproj.AssemblyReference.cache
+E:\multi4-3\obj\Debug\multi4_3.Form1.resources
+E:\multi4-3\obj\Debug\multi4_3.Properties.Resources.resources
+E:\multi4-3\obj\Debug\multi4-3.csproj.GenerateResource.cache
+E:\multi4-3\obj\Debug\multi4-3.csproj.CoreCompileInputs.cache

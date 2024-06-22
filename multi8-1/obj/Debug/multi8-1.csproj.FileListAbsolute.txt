@@ -1,0 +1,9 @@
+E:\multi8-1\bin\Debug\multi8-1.exe.config
+E:\multi8-1\bin\Debug\multi8-1.exe
+E:\multi8-1\bin\Debug\multi8-1.pdb
+E:\multi8-1\obj\Debug\multi8-1.csproj.AssemblyReference.cache
+E:\multi8-1\obj\Debug\multi8_1.Properties.Resources.resources
+E:\multi8-1\obj\Debug\multi8-1.csproj.GenerateResource.cache
+E:\multi8-1\obj\Debug\multi8-1.csproj.CoreCompileInputs.cache
+E:\multi8-1\obj\Debug\multi8-1.exe
+E:\multi8-1\obj\Debug\multi8-1.pdb

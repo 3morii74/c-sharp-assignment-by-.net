@@ -1,0 +1,9 @@
+E:\multi3-3\bin\Debug\multi3-3.exe.config
+E:\multi3-3\bin\Debug\multi3-3.exe
+E:\multi3-3\bin\Debug\multi3-3.pdb
+E:\multi3-3\obj\Debug\multi3-3.csproj.AssemblyReference.cache
+E:\multi3-3\obj\Debug\multi3_3.Properties.Resources.resources
+E:\multi3-3\obj\Debug\multi3-3.csproj.GenerateResource.cache
+E:\multi3-3\obj\Debug\multi3-3.csproj.CoreCompileInputs.cache
+E:\multi3-3\obj\Debug\multi3-3.exe
+E:\multi3-3\obj\Debug\multi3-3.pdb

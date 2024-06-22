@@ -1,0 +1,9 @@
+E:\multi7-1\obj\Debug\multi7-1.csproj.AssemblyReference.cache
+E:\multi7-1\obj\Debug\multi7_1.Properties.Resources.resources
+E:\multi7-1\obj\Debug\multi7-1.csproj.GenerateResource.cache
+E:\multi7-1\obj\Debug\multi7-1.csproj.CoreCompileInputs.cache
+E:\multi7-1\bin\Debug\multi7-1.exe.config
+E:\multi7-1\bin\Debug\multi7-1.exe
+E:\multi7-1\bin\Debug\multi7-1.pdb
+E:\multi7-1\obj\Debug\multi7-1.exe
+E:\multi7-1\obj\Debug\multi7-1.pdb

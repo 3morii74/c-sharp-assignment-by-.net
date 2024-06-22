@@ -1,0 +1,9 @@
+E:\multi2-1\multi2-1\bin\Debug\multi2-1.exe.config
+E:\multi2-1\multi2-1\bin\Debug\multi2-1.exe
+E:\multi2-1\multi2-1\bin\Debug\multi2-1.pdb
+E:\multi2-1\multi2-1\obj\Debug\multi2-1.csproj.AssemblyReference.cache
+E:\multi2-1\multi2-1\obj\Debug\multi2_1.Properties.Resources.resources
+E:\multi2-1\multi2-1\obj\Debug\multi2-1.csproj.GenerateResource.cache
+E:\multi2-1\multi2-1\obj\Debug\multi2-1.csproj.CoreCompileInputs.cache
+E:\multi2-1\multi2-1\obj\Debug\multi2-1.exe
+E:\multi2-1\multi2-1\obj\Debug\multi2-1.pdb

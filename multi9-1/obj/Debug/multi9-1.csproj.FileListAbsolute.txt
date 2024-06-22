@@ -1,0 +1,9 @@
+E:\multi9-1\bin\Debug\multi9-1.exe.config
+E:\multi9-1\bin\Debug\multi9-1.exe
+E:\multi9-1\bin\Debug\multi9-1.pdb
+E:\multi9-1\obj\Debug\multi9-1.csproj.AssemblyReference.cache
+E:\multi9-1\obj\Debug\multi9_1.Properties.Resources.resources
+E:\multi9-1\obj\Debug\multi9-1.csproj.GenerateResource.cache
+E:\multi9-1\obj\Debug\multi9-1.csproj.CoreCompileInputs.cache
+E:\multi9-1\obj\Debug\multi9-1.exe
+E:\multi9-1\obj\Debug\multi9-1.pdb

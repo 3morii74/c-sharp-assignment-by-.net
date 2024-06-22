@@ -1,0 +1,9 @@
+E:\multi6-2\bin\Debug\multi6-2.exe.config
+E:\multi6-2\bin\Debug\multi6-2.exe
+E:\multi6-2\bin\Debug\multi6-2.pdb
+E:\multi6-2\obj\Debug\multi6-2.csproj.AssemblyReference.cache
+E:\multi6-2\obj\Debug\multi6_2.Properties.Resources.resources
+E:\multi6-2\obj\Debug\multi6-2.csproj.GenerateResource.cache
+E:\multi6-2\obj\Debug\multi6-2.csproj.CoreCompileInputs.cache
+E:\multi6-2\obj\Debug\multi6-2.exe
+E:\multi6-2\obj\Debug\multi6-2.pdb

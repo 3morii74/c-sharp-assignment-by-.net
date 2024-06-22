@@ -1,0 +1,9 @@
+E:\multi4-3B\bin\Debug\multi4-3B.exe.config
+E:\multi4-3B\bin\Debug\multi4-3B.exe
+E:\multi4-3B\bin\Debug\multi4-3B.pdb
+E:\multi4-3B\obj\Debug\multi4-3B.csproj.AssemblyReference.cache
+E:\multi4-3B\obj\Debug\multi4_3B.Properties.Resources.resources
+E:\multi4-3B\obj\Debug\multi4-3B.csproj.GenerateResource.cache
+E:\multi4-3B\obj\Debug\multi4-3B.csproj.CoreCompileInputs.cache
+E:\multi4-3B\obj\Debug\multi4-3B.exe
+E:\multi4-3B\obj\Debug\multi4-3B.pdb
