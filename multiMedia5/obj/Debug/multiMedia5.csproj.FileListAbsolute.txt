@@ -1,0 +1,9 @@
+E:\multiMedia5\bin\Debug\multiMedia5.exe.config
+E:\multiMedia5\bin\Debug\multiMedia5.exe
+E:\multiMedia5\bin\Debug\multiMedia5.pdb
+E:\multiMedia5\obj\Debug\multiMedia5.csproj.AssemblyReference.cache
+E:\multiMedia5\obj\Debug\multiMedia5.Properties.Resources.resources
+E:\multiMedia5\obj\Debug\multiMedia5.csproj.GenerateResource.cache
+E:\multiMedia5\obj\Debug\multiMedia5.csproj.CoreCompileInputs.cache
+E:\multiMedia5\obj\Debug\multiMedia5.exe
+E:\multiMedia5\obj\Debug\multiMedia5.pdb
